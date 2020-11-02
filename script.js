@@ -6,7 +6,7 @@ const countdown = document.getElementById('countdown');
 const age = document.getElementById('year');
 const loading = document.getElementById('loading');
 const currentYear = new Date().getFullYear() + 1;
-const NadiaAge = 6;
+const NadiaAge = 7;
 const nadiaBirthday = new Date(`October 15 ${currentYear} 00:00:00`);
 
 // set birthday Year
